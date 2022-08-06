@@ -1,0 +1,26 @@
+<head style="
+backgrand-color: #272727;
+text-align: center;
+padding:50px
+font-color:#FFDC35>未来
+</head>
+<body>
+<div style="
+backgrand-color:#BEBEBE;
+text-align: center;
+padding: 40px;
+">
+<img scr="https://mr.baidu.com/r/KytNjruS4g?f=cp&u=3aedf5c9348c4ea0" width="88px" height="88px">
+</div>
+<div style="
+max-width: 700px;
+margin: 30px auto;
+padding: 15px;
+line-height: 1.8;
+">
+<P>长巷，聚拢来是烟火，摊开来是人间。</p>
+<p>被爱着的她，连撑伞的样子都像捧着一束玫瑰花。</p>
+<p>见惯了量产的温柔，所以对笨拙的真诚格外心动。</p>
+<p>未曾谋面的也终将会相遇。</p>
+<p>不经意间闯入生活的人总能惊艳了岁月。</p>
+</div>
